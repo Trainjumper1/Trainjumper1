@@ -6,8 +6,8 @@
 
 <!---
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trainjumper1&layout=compact&langs_count=7&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trainjumper1&layout=compact&langs_count=7&theme=github_light" />
-    <img alt="Github-Statistics" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trainjumper1&layout=compact&langs_count=7&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trainjumper1&layout=compact&include_all_commits=true&count_private=true&langs_count=7&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trainjumper1&layout=compact&include_all_commits=true&count_private=true&langs_count=7&theme=github_light" />
+    <img alt="Github-Statistics" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trainjumper1&layout=compact&include_all_commits=true&count_private=true&langs_count=7&theme=github_dark" />
 </picture>
 -->
